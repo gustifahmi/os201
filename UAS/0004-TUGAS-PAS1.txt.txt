@@ -1,0 +1,36 @@
+Script started on Tue 09 Jun 2020 02:31:00 AM WIB
+gusti.fahmi@badak:~$ PS1="$ "
+$ echo $GitHubUser
+gustifahmi
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200609-023127-8a5c-gusti.fahmi/>
+$ PS1="\$(eval \$PSTAMP)"
+200609-023131-82c9-gusti.fahmi/> echo -e $CEKSAYA
+gustifahmi ZCZCSRIPTSTART 200608-021323 gustifahmi
+gustifahmi gustifahmi 200608-021346-28d3-gusti.fahmi/ 200608-021346 SEQOK SUMOK 28d3fd43
+gustifahmi gustifahmi 200608-021353-7430-gusti.fahmi/ 200608-021353 SEQOK SUMOK 7430d95c
+gustifahmi gustifahmi 200608-021355-d073-gusti.fahmi/ 200608-021355 SEQOK SUMOK d073a654
+gustifahmi gustifahmi 200608-021401-ca4b-gusti.fahmi/ 200608-021401 SEQOK SUMOK ca4b1c72
+gustifahmi ZCZCSCRIPTSTOP 200608-021408 SEQOK
+
+200609-023137-c185-gusti.fahmi/> echo -e $CEKSEBELA1
+gustifahmi ZCZCSCRIPTSTART 200531-112144 habelct
+gustifahmi habelct 200531-232209-99c8-habel.christiando/ 200531-232209 SEQOK SUMOK 99c823e5
+gustifahmi habelct 200531-232316-aada-habel.christiando/ 200531-232316 SEQOK SUMOK aadafd21
+gustifahmi habelct 200531-232327-9ce5-habel.christiando/ 200531-232327 SEQOK SUMOK 9ce5ad43
+gustifahmi ZCZCSCRIPTSTOP 200531-112345 SEQOK
+
+200609-023141-2812-gusti.fahmi/> echo -e $CEKSEBELA2
+gustifahmi ZCZCSCRIPTSTART 200608-190458 hanardiansyah
+gustifahmi hanardiansyah 200608-190527-b680-UAS/ 200608-190527 SEQOK SUMOK b6808847
+gustifahmi hanardiansyah 200608-190536-a96e-UAS/ 200608-190536 SEQOK SUMOK a96e9855
+gustifahmi hanardiansyah 200608-190540-179d-UAS/ 200608-190540 SEQOK SUMOK 179ddd0b
+gustifahmi hanardiansyah 200608-190557-1745-UAS/ 200608-190557 SEQOK SUMOK 17455aac
+gustifahmi ZCZCSCRIPTSTOP 200608-190604 SEQOK
+
+200609-023145-8d9e-gusti.fahmi/> exit
+exit
+
+Script done on Tue 09 Jun 2020 02:31:51 AM WIB
