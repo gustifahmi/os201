@@ -1,1 +1,1 @@
-index.MD
+index.md
