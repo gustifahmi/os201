@@ -18,6 +18,7 @@ gustifahmi ZCZCSCRIPTSTOP 200608-021408 SEQOK
 200609-023137-c185-gusti.fahmi/> echo -e $CEKSEBELA1
 gustifahmi ZCZCSCRIPTSTART 200531-112144 habelct
 gustifahmi habelct 200531-232209-99c8-habel.christiando/ 200531-232209 SEQOK SUMOK 99c823e5
+gustifahmi habelct 200531-232209-99c8-habel.christiando/ 200531-232209 SEQOK SUMOK 99c823e5
 gustifahmi habelct 200531-232316-aada-habel.christiando/ 200531-232316 SEQOK SUMOK aadafd21
 gustifahmi habelct 200531-232327-9ce5-habel.christiando/ 200531-232327 SEQOK SUMOK 9ce5ad43
 gustifahmi ZCZCSCRIPTSTOP 200531-112345 SEQOK
